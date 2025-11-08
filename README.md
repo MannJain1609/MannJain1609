@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mann Kumar Jain
 =======================================================================================================================================
 
-Web Developer | AI Enthusiast
+Backend Developer | AI Enthusiast
 -----------------------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [mann.jain@iitgn.ac.in](mailto:mann.jain@iitgn.ac.in)
-* 🧠  I'm learning Web and AI
+* ✉️  You can contact me at [mann.jain@alumni.iitgn.ac.in](mailto:mann.jain@alumni.iitgn.ac.in) or [mannjain777@gmail.com](mailto:mannjain777@gmail.com)
+* 🧠  I'm exploring AI and ML and have developed projects around these and mcp servers.
 * 🤝  I'm open to collaborating on Backend projects and data analysis
 * ⚡  I love coding and travelling
 

@@ -7,8 +7,8 @@ Backend Developer | AI Enthusiast
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mann.jain@alumni.iitgn.ac.in](mailto:mann.jain@alumni.iitgn.ac.in) or [mannjain777@gmail.com](mailto:mannjain777@gmail.com)
 * 🧠  I'm exploring AI and ML and have developed projects around these and mcp servers.
-* 🤝  I'm open to collaborating on Backend projects and data analysis
-* ⚡  I love coding and travelling
+* 🤝  I'm open to collaborating on Backend projects and full stack and AI/ML projects.
+* ⚡  I love coding, finance and computer technology. 
 
 ### Skills
 

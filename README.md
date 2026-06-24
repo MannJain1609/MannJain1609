@@ -29,7 +29,41 @@ Software Engineer @ Salesforce | IIT Gandhinagar Alum | Backend & AI/ML | Proble
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
+### 🚀 Featured Projects & Collaborations
 
+* **[E-commerce for Intra-College Buy & Sell with extensive features](https://github.com/SiddheshKanawade/CDSlite)** 
+  A secure, full-stack buy-sell portal featuring merchandise sales, dynamic bidding, and product barter capabilities[cite: 1].
+  * **Tech Stack:** Python, Flask, MySQL, HTML, CSS, JavaScript[cite: 1].
+  * **My Contribution:** Built the Flask backend for user authentication, product management, bidding, and barter workflows[cite: 1]. Designed ER model-compliant SQL schemas, wrote robust database queries, integrated the frontend with the backend[cite: 1], and executed fundamental pen-testing to address SQL injection and XSS vulnerabilities. 
+
+* **[Automated Event Notification Service](https://github.com/Serverless-Technology/get_notification)** 
+  An event-driven, multi-tenant notification system utilizing asynchronous triggers and stateless functions to reduce localized bulk action processing latency by 100x.
+  * **Tech Stack:** Python, AWS (Lambda, S3, DynamoDB), Serverless Framework.
+
+* **[Detecting protein structures and amino acids](https://github.com/SiddheshKanawade/protein_shape_assembly)** 
+  An SE(3)-equivariant shape-assembly pipeline utilizing Deep Learning to isolate, fragment, and detect individual amino acid residues from complex protein molecules.
+  * **Tech Stack:** Python, PyTorch, PyUUL, Open3D, DGCNN.
+
+* **[Pre-training and Fine-Tuning BERT](https://github.com/Masters-Of-NLP/Assignment-3)** 
+  Leveraged bidirectional Masked Language Modeling (MLM) and Next Sentence Prediction (NSP) to pre-train a BERT model using over 100M tokens for advanced text classification and QA tasks.
+  * **Tech Stack:** Python, LLMs, NLP.
+
+* **[Visualization of Probability Distributions](https://github.com/MannJain1609/Visualizations-of-Probability-Distributions)**
+  An interactive web application designed to model and visualize various continuous and discrete probability distributions, demonstrating their mathematical properties and inter-related mappings.
+  * **Tech Stack:** Python, TensorFlow Probability, Streamlit.
+
+* **[Image Segmentation Using Random Walker](https://github.com/MannJain1609/Image-Segmentation-Using-Random-Walker)** 
+  Implemented a graph-based Random Walker algorithm for robust and interactive image segmentation, accurately isolating distinct objects, regions, and boundaries from background noise.
+  * **Tech Stack:** Python, scikit-image, NumPy, SciPy, Matplotlib.
+
+* **[CPU Cache Simulator](https://github.com/MannJain1609/Cache-Simulator)**
+  Developed a parameterized CPU cache simulator to model memory access patterns, analyze cache hit/miss rates, and evaluate the performance of various eviction and write policies.
+  * **Tech Stack:** C/C++, Computer Architecture.
+
+* **[Data Structures Implementation](https://github.com/MannJain1609/Data-Structures-Implementation-using-Ctor)** 
+  Engineered a comprehensive library of fundamental data structures and algorithms from scratch, focusing on efficient memory management, optimized time complexities, and robust edge-case handling.
+  * **Tech Stack:** C, C++, Data Structures & Algorithms.
+  
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/MannJain1609" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://techmadeeasy.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mann-kumar-jain-818617202/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
